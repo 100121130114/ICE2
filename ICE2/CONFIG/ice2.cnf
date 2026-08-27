@@ -1,0 +1,16 @@
+00004 ; LN Longuitud de los numeros ;
+00001 ; LFD Longuitud de los tipos ;
+00100 ; LC Longuitud de los comandos ;
+00064 ; LV Longuitud de las variables ;
+00064 ; LS Longuitud de los scripts ;
+00016 ; LJ Longuitud de el reguistro de jump ;
+00064 ; CCV Cantidad de CVARs ;
+00016 ; LCV Longuitud de cada CVAR ;
+00004 ; CD Cantidad de Dwarfs ;
+00016 ; LR Longuitud del registro recover ;
+00048 ; IC Primer caracter que puede representar un numero ;
+00057 ; FC Ultimo caracter que puede representar un numero ; ; COMENTARIO : Para numeros en Base 10, IC:48 o '0' y FC:57 o '9' ;
+01000 ; LF Longuitud de el file de entrada ;
+00300 ; CME Cantidad maxima de errores antes de auto FATALITYERROR ;
+00030 ; LDS Longuitud de el registro para el comando especial define ;
+00030 ; LFS Longuitud de el registro para el comando especial function ;

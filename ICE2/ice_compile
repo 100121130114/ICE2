@@ -1,0 +1,3 @@
+#!/bin/bash
+
+gcc BASES/ice2.c -o BIN/ice2
